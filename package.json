@@ -1,0 +1,16 @@
+{
+"name": "boba889slot",
+"theme": "boba889 slot",
+"version": "2.10.2",
+"description": "boba889 slot สมัครเว็บคาสิโนเว็บตรง สมาชิกเยอะ ให้เครดิตฟรี",
+"keywords": [
+"boba889 slot",
+"boba889 slot เครดิตฟรี",
+"boba889 slot ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/boba889slot",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
